@@ -25,4 +25,20 @@ DSA Questions and solutions
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/pandeygopal/DSA/tree/main/1545-find-kth-bit-in-nth-binary-string/) | Medium |
+## Array
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0542-01-matrix](https://github.com/pandeygopal/DSA/tree/main/0542-01-matrix/) | Medium |
+## Dynamic Programming
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0542-01-matrix](https://github.com/pandeygopal/DSA/tree/main/0542-01-matrix/) | Medium |
+## Breadth-First Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0542-01-matrix](https://github.com/pandeygopal/DSA/tree/main/0542-01-matrix/) | Medium |
+## Matrix
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0542-01-matrix](https://github.com/pandeygopal/DSA/tree/main/0542-01-matrix/) | Medium |
 <!---LeetCode Topics End-->
