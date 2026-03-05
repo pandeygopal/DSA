@@ -11,6 +11,7 @@ DSA Questions and solutions
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0231-power-of-two](https://github.com/pandeygopal/DSA/tree/master/0231-power-of-two) |
+| [0473-matchsticks-to-square](https://github.com/pandeygopal/DSA/tree/main/0473-matchsticks-to-square/) | Medium |
 | [0526-beautiful-arrangement](https://github.com/pandeygopal/DSA/tree/main/0526-beautiful-arrangement/) | Medium |
 ## Recursion
 | Problem Name | Difficulty |
@@ -29,6 +30,7 @@ DSA Questions and solutions
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0473-matchsticks-to-square](https://github.com/pandeygopal/DSA/tree/main/0473-matchsticks-to-square/) | Medium |
 | [0494-target-sum](https://github.com/pandeygopal/DSA/tree/main/0494-target-sum/) | Medium |
 | [0518-coin-change-ii](https://github.com/pandeygopal/DSA/tree/main/0518-coin-change-ii/) | Medium |
 | [0526-beautiful-arrangement](https://github.com/pandeygopal/DSA/tree/main/0526-beautiful-arrangement/) | Medium |
@@ -36,6 +38,7 @@ DSA Questions and solutions
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0473-matchsticks-to-square](https://github.com/pandeygopal/DSA/tree/main/0473-matchsticks-to-square/) | Medium |
 | [0494-target-sum](https://github.com/pandeygopal/DSA/tree/main/0494-target-sum/) | Medium |
 | [0518-coin-change-ii](https://github.com/pandeygopal/DSA/tree/main/0518-coin-change-ii/) | Medium |
 | [0526-beautiful-arrangement](https://github.com/pandeygopal/DSA/tree/main/0526-beautiful-arrangement/) | Medium |
@@ -51,10 +54,12 @@ DSA Questions and solutions
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0473-matchsticks-to-square](https://github.com/pandeygopal/DSA/tree/main/0473-matchsticks-to-square/) | Medium |
 | [0494-target-sum](https://github.com/pandeygopal/DSA/tree/main/0494-target-sum/) | Medium |
 | [0526-beautiful-arrangement](https://github.com/pandeygopal/DSA/tree/main/0526-beautiful-arrangement/) | Medium |
 ## Bitmask
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0473-matchsticks-to-square](https://github.com/pandeygopal/DSA/tree/main/0473-matchsticks-to-square/) | Medium |
 | [0526-beautiful-arrangement](https://github.com/pandeygopal/DSA/tree/main/0526-beautiful-arrangement/) | Medium |
 <!---LeetCode Topics End-->
