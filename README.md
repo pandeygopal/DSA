@@ -21,6 +21,7 @@ DSA Questions and solutions
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0467-unique-substrings-in-wraparound-string](https://github.com/pandeygopal/DSA/tree/main/0467-unique-substrings-in-wraparound-string/) | Medium |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/pandeygopal/DSA/tree/main/1545-find-kth-bit-in-nth-binary-string/) | Medium |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/pandeygopal/DSA/tree/main/1758-minimum-changes-to-make-alternating-binary-string/) | Easy |
 ## Simulation
@@ -38,6 +39,7 @@ DSA Questions and solutions
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0467-unique-substrings-in-wraparound-string](https://github.com/pandeygopal/DSA/tree/main/0467-unique-substrings-in-wraparound-string/) | Medium |
 | [0473-matchsticks-to-square](https://github.com/pandeygopal/DSA/tree/main/0473-matchsticks-to-square/) | Medium |
 | [0494-target-sum](https://github.com/pandeygopal/DSA/tree/main/0494-target-sum/) | Medium |
 | [0518-coin-change-ii](https://github.com/pandeygopal/DSA/tree/main/0518-coin-change-ii/) | Medium |
