@@ -6,6 +6,7 @@ DSA Questions and solutions
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0204-count-primes](https://github.com/pandeygopal/DSA/tree/main/0204-count-primes/) | Medium |
 | [0223-rectangle-area](https://github.com/pandeygopal/DSA/tree/main/0223-rectangle-area/) | Medium |
 | [0231-power-of-two](https://github.com/pandeygopal/DSA/tree/master/0231-power-of-two) |
 | [0292-nim-game](https://github.com/pandeygopal/DSA/tree/main/0292-nim-game/) | Easy |
@@ -39,6 +40,7 @@ DSA Questions and solutions
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0204-count-primes](https://github.com/pandeygopal/DSA/tree/main/0204-count-primes/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/pandeygopal/DSA/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0473-matchsticks-to-square](https://github.com/pandeygopal/DSA/tree/main/0473-matchsticks-to-square/) | Medium |
 | [0494-target-sum](https://github.com/pandeygopal/DSA/tree/main/0494-target-sum/) | Medium |
@@ -127,4 +129,12 @@ DSA Questions and solutions
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0223-rectangle-area](https://github.com/pandeygopal/DSA/tree/main/0223-rectangle-area/) | Medium |
+## Enumeration
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0204-count-primes](https://github.com/pandeygopal/DSA/tree/main/0204-count-primes/) | Medium |
+## Number Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0204-count-primes](https://github.com/pandeygopal/DSA/tree/main/0204-count-primes/) | Medium |
 <!---LeetCode Topics End-->
