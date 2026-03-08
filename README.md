@@ -7,6 +7,7 @@ DSA Questions and solutions
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0231-power-of-two](https://github.com/pandeygopal/DSA/tree/master/0231-power-of-two) |
+| [0365-water-and-jug-problem](https://github.com/pandeygopal/DSA/tree/main/0365-water-and-jug-problem/) | Medium |
 | [0382-linked-list-random-node](https://github.com/pandeygopal/DSA/tree/main/0382-linked-list-random-node/) | Medium |
 ## Bit Manipulation
 | Problem Name | Difficulty |
@@ -56,6 +57,7 @@ DSA Questions and solutions
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0365-water-and-jug-problem](https://github.com/pandeygopal/DSA/tree/main/0365-water-and-jug-problem/) | Medium |
 | [0542-01-matrix](https://github.com/pandeygopal/DSA/tree/main/0542-01-matrix/) | Medium |
 ## Matrix
 | Problem Name | Difficulty |
@@ -105,4 +107,8 @@ DSA Questions and solutions
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0382-linked-list-random-node](https://github.com/pandeygopal/DSA/tree/main/0382-linked-list-random-node/) | Medium |
+## Depth-First Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0365-water-and-jug-problem](https://github.com/pandeygopal/DSA/tree/main/0365-water-and-jug-problem/) | Medium |
 <!---LeetCode Topics End-->
