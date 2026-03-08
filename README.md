@@ -26,6 +26,7 @@ DSA Questions and solutions
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/pandeygopal/DSA/tree/main/1758-minimum-changes-to-make-alternating-binary-string/) | Easy |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/pandeygopal/DSA/tree/main/1784-check-if-binary-string-has-at-most-one-segment-of-ones/) | Easy |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/pandeygopal/DSA/tree/main/1888-minimum-number-of-flips-to-make-the-binary-string-alternating/) | Medium |
+| [1980-find-unique-binary-string](https://github.com/pandeygopal/DSA/tree/main/1980-find-unique-binary-string/) | Medium |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -40,6 +41,7 @@ DSA Questions and solutions
 | [0526-beautiful-arrangement](https://github.com/pandeygopal/DSA/tree/main/0526-beautiful-arrangement/) | Medium |
 | [0542-01-matrix](https://github.com/pandeygopal/DSA/tree/main/0542-01-matrix/) | Medium |
 | [0930-binary-subarrays-with-sum](https://github.com/pandeygopal/DSA/tree/main/0930-binary-subarrays-with-sum/) | Medium |
+| [1980-find-unique-binary-string](https://github.com/pandeygopal/DSA/tree/main/1980-find-unique-binary-string/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -64,6 +66,7 @@ DSA Questions and solutions
 | [0473-matchsticks-to-square](https://github.com/pandeygopal/DSA/tree/main/0473-matchsticks-to-square/) | Medium |
 | [0494-target-sum](https://github.com/pandeygopal/DSA/tree/main/0494-target-sum/) | Medium |
 | [0526-beautiful-arrangement](https://github.com/pandeygopal/DSA/tree/main/0526-beautiful-arrangement/) | Medium |
+| [1980-find-unique-binary-string](https://github.com/pandeygopal/DSA/tree/main/1980-find-unique-binary-string/) | Medium |
 ## Bitmask
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -73,6 +76,7 @@ DSA Questions and solutions
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0930-binary-subarrays-with-sum](https://github.com/pandeygopal/DSA/tree/main/0930-binary-subarrays-with-sum/) | Medium |
+| [1980-find-unique-binary-string](https://github.com/pandeygopal/DSA/tree/main/1980-find-unique-binary-string/) | Medium |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
