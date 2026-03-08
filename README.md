@@ -7,6 +7,7 @@ DSA Questions and solutions
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0231-power-of-two](https://github.com/pandeygopal/DSA/tree/master/0231-power-of-two) |
+| [0319-bulb-switcher](https://github.com/pandeygopal/DSA/tree/main/0319-bulb-switcher/) | Medium |
 | [0365-water-and-jug-problem](https://github.com/pandeygopal/DSA/tree/main/0365-water-and-jug-problem/) | Medium |
 | [0382-linked-list-random-node](https://github.com/pandeygopal/DSA/tree/main/0382-linked-list-random-node/) | Medium |
 ## Bit Manipulation
@@ -111,4 +112,8 @@ DSA Questions and solutions
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0365-water-and-jug-problem](https://github.com/pandeygopal/DSA/tree/main/0365-water-and-jug-problem/) | Medium |
+## Brainteaser
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0319-bulb-switcher](https://github.com/pandeygopal/DSA/tree/main/0319-bulb-switcher/) | Medium |
 <!---LeetCode Topics End-->
