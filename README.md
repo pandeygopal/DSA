@@ -7,6 +7,7 @@ DSA Questions and solutions
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0231-power-of-two](https://github.com/pandeygopal/DSA/tree/master/0231-power-of-two) |
+| [0382-linked-list-random-node](https://github.com/pandeygopal/DSA/tree/main/0382-linked-list-random-node/) | Medium |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -92,4 +93,16 @@ DSA Questions and solutions
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/pandeygopal/DSA/tree/main/0209-minimum-size-subarray-sum/) | Medium |
+## Linked List
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0382-linked-list-random-node](https://github.com/pandeygopal/DSA/tree/main/0382-linked-list-random-node/) | Medium |
+## Reservoir Sampling
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0382-linked-list-random-node](https://github.com/pandeygopal/DSA/tree/main/0382-linked-list-random-node/) | Medium |
+## Randomized
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0382-linked-list-random-node](https://github.com/pandeygopal/DSA/tree/main/0382-linked-list-random-node/) | Medium |
 <!---LeetCode Topics End-->
