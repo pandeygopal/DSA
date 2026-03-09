@@ -59,6 +59,7 @@ DSA Questions and solutions
 | [0526-beautiful-arrangement](https://github.com/pandeygopal/DSA/tree/main/0526-beautiful-arrangement/) | Medium |
 | [0542-01-matrix](https://github.com/pandeygopal/DSA/tree/main/0542-01-matrix/) | Medium |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/pandeygopal/DSA/tree/main/1888-minimum-number-of-flips-to-make-the-binary-string-alternating/) | Medium |
+| [3129-find-all-possible-stable-binary-arrays-i](https://github.com/pandeygopal/DSA/tree/main/3129-find-all-possible-stable-binary-arrays-i/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -96,6 +97,7 @@ DSA Questions and solutions
 | ------- | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/pandeygopal/DSA/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0930-binary-subarrays-with-sum](https://github.com/pandeygopal/DSA/tree/main/0930-binary-subarrays-with-sum/) | Medium |
+| [3129-find-all-possible-stable-binary-arrays-i](https://github.com/pandeygopal/DSA/tree/main/3129-find-all-possible-stable-binary-arrays-i/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
