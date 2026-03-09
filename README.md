@@ -50,6 +50,7 @@ DSA Questions and solutions
 | [0518-coin-change-ii](https://github.com/pandeygopal/DSA/tree/main/0518-coin-change-ii/) | Medium |
 | [0526-beautiful-arrangement](https://github.com/pandeygopal/DSA/tree/main/0526-beautiful-arrangement/) | Medium |
 | [0542-01-matrix](https://github.com/pandeygopal/DSA/tree/main/0542-01-matrix/) | Medium |
+| [0581-shortest-unsorted-continuous-subarray](https://github.com/pandeygopal/DSA/tree/main/0581-shortest-unsorted-continuous-subarray/) | Medium |
 | [0930-binary-subarrays-with-sum](https://github.com/pandeygopal/DSA/tree/main/0930-binary-subarrays-with-sum/) | Medium |
 | [1980-find-unique-binary-string](https://github.com/pandeygopal/DSA/tree/main/1980-find-unique-binary-string/) | Medium |
 ## Dynamic Programming
@@ -149,8 +150,25 @@ DSA Questions and solutions
 | ------- | ------- |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/pandeygopal/DSA/tree/main/0378-kth-smallest-element-in-a-sorted-matrix/) | Medium |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/pandeygopal/DSA/tree/main/0462-minimum-moves-to-equal-array-elements-ii/) | Medium |
+| [0581-shortest-unsorted-continuous-subarray](https://github.com/pandeygopal/DSA/tree/main/0581-shortest-unsorted-continuous-subarray/) | Medium |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/pandeygopal/DSA/tree/main/0378-kth-smallest-element-in-a-sorted-matrix/) | Medium |
+## Two Pointers
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0581-shortest-unsorted-continuous-subarray](https://github.com/pandeygopal/DSA/tree/main/0581-shortest-unsorted-continuous-subarray/) | Medium |
+## Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0581-shortest-unsorted-continuous-subarray](https://github.com/pandeygopal/DSA/tree/main/0581-shortest-unsorted-continuous-subarray/) | Medium |
+## Greedy
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0581-shortest-unsorted-continuous-subarray](https://github.com/pandeygopal/DSA/tree/main/0581-shortest-unsorted-continuous-subarray/) | Medium |
+## Monotonic Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0581-shortest-unsorted-continuous-subarray](https://github.com/pandeygopal/DSA/tree/main/0581-shortest-unsorted-continuous-subarray/) | Medium |
 <!---LeetCode Topics End-->
