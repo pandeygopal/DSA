@@ -95,6 +95,7 @@ DSA Questions and solutions
 | ------- | ------- |
 | [0930-binary-subarrays-with-sum](https://github.com/pandeygopal/DSA/tree/main/0930-binary-subarrays-with-sum/) | Medium |
 | [1980-find-unique-binary-string](https://github.com/pandeygopal/DSA/tree/main/1980-find-unique-binary-string/) | Medium |
+| [2336-smallest-number-in-infinite-set](https://github.com/pandeygopal/DSA/tree/main/2336-smallest-number-in-infinite-set/) | Medium |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -164,6 +165,7 @@ DSA Questions and solutions
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/pandeygopal/DSA/tree/main/0378-kth-smallest-element-in-a-sorted-matrix/) | Medium |
+| [2336-smallest-number-in-infinite-set](https://github.com/pandeygopal/DSA/tree/main/2336-smallest-number-in-infinite-set/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -187,4 +189,9 @@ DSA Questions and solutions
 | ------- | ------- |
 | [0456-132-pattern](https://github.com/pandeygopal/DSA/tree/main/0456-132-pattern/) | Medium |
 | [0497-random-point-in-non-overlapping-rectangles](https://github.com/pandeygopal/DSA/tree/main/0497-random-point-in-non-overlapping-rectangles/) | Medium |
+| [2336-smallest-number-in-infinite-set](https://github.com/pandeygopal/DSA/tree/main/2336-smallest-number-in-infinite-set/) | Medium |
+## Design
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2336-smallest-number-in-infinite-set](https://github.com/pandeygopal/DSA/tree/main/2336-smallest-number-in-infinite-set/) | Medium |
 <!---LeetCode Topics End-->
