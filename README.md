@@ -71,6 +71,7 @@ DSA Questions and solutions
 | [0645-set-mismatch](https://github.com/pandeygopal/DSA/tree/main/0645-set-mismatch/) | Easy |
 | [0739-daily-temperatures](https://github.com/pandeygopal/DSA/tree/main/0739-daily-temperatures/) | Medium |
 | [0930-binary-subarrays-with-sum](https://github.com/pandeygopal/DSA/tree/main/0930-binary-subarrays-with-sum/) | Medium |
+| [1046-last-stone-weight](https://github.com/pandeygopal/DSA/tree/main/1046-last-stone-weight/) | Easy |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/pandeygopal/DSA/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 | [1441-build-an-array-with-stack-operations](https://github.com/pandeygopal/DSA/tree/main/1441-build-an-array-with-stack-operations/) | Medium |
 | [1470-shuffle-the-array](https://github.com/pandeygopal/DSA/tree/main/1470-shuffle-the-array/) | Easy |
@@ -200,6 +201,7 @@ DSA Questions and solutions
 | ------- | ------- |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/pandeygopal/DSA/tree/main/0373-find-k-pairs-with-smallest-sums/) | Medium |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/pandeygopal/DSA/tree/main/0378-kth-smallest-element-in-a-sorted-matrix/) | Medium |
+| [1046-last-stone-weight](https://github.com/pandeygopal/DSA/tree/main/1046-last-stone-weight/) | Easy |
 | [2336-smallest-number-in-infinite-set](https://github.com/pandeygopal/DSA/tree/main/2336-smallest-number-in-infinite-set/) | Medium |
 | [2349-design-a-number-container-system](https://github.com/pandeygopal/DSA/tree/main/2349-design-a-number-container-system/) | Medium |
 ## Two Pointers
