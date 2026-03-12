@@ -51,6 +51,7 @@ DSA Questions and solutions
 | [0456-132-pattern](https://github.com/pandeygopal/DSA/tree/main/0456-132-pattern/) | Medium |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/pandeygopal/DSA/tree/main/0462-minimum-moves-to-equal-array-elements-ii/) | Medium |
 | [0473-matchsticks-to-square](https://github.com/pandeygopal/DSA/tree/main/0473-matchsticks-to-square/) | Medium |
+| [0485-max-consecutive-ones](https://github.com/pandeygopal/DSA/tree/main/0485-max-consecutive-ones/) | Easy |
 | [0494-target-sum](https://github.com/pandeygopal/DSA/tree/main/0494-target-sum/) | Medium |
 | [0497-random-point-in-non-overlapping-rectangles](https://github.com/pandeygopal/DSA/tree/main/0497-random-point-in-non-overlapping-rectangles/) | Medium |
 | [0518-coin-change-ii](https://github.com/pandeygopal/DSA/tree/main/0518-coin-change-ii/) | Medium |
