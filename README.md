@@ -63,6 +63,7 @@ DSA Questions and solutions
 | [0526-beautiful-arrangement](https://github.com/pandeygopal/DSA/tree/main/0526-beautiful-arrangement/) | Medium |
 | [0542-01-matrix](https://github.com/pandeygopal/DSA/tree/main/0542-01-matrix/) | Medium |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/pandeygopal/DSA/tree/main/0581-shortest-unsorted-continuous-subarray/) | Medium |
+| [0636-exclusive-time-of-functions](https://github.com/pandeygopal/DSA/tree/main/0636-exclusive-time-of-functions/) | Medium |
 | [0645-set-mismatch](https://github.com/pandeygopal/DSA/tree/main/0645-set-mismatch/) | Easy |
 | [0930-binary-subarrays-with-sum](https://github.com/pandeygopal/DSA/tree/main/0930-binary-subarrays-with-sum/) | Medium |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/pandeygopal/DSA/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
@@ -202,6 +203,7 @@ DSA Questions and solutions
 | [0150-evaluate-reverse-polish-notation](https://github.com/pandeygopal/DSA/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0456-132-pattern](https://github.com/pandeygopal/DSA/tree/main/0456-132-pattern/) | Medium |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/pandeygopal/DSA/tree/main/0581-shortest-unsorted-continuous-subarray/) | Medium |
+| [0636-exclusive-time-of-functions](https://github.com/pandeygopal/DSA/tree/main/0636-exclusive-time-of-functions/) | Medium |
 | [1441-build-an-array-with-stack-operations](https://github.com/pandeygopal/DSA/tree/main/1441-build-an-array-with-stack-operations/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
