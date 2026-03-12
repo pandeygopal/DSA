@@ -48,6 +48,7 @@ DSA Questions and solutions
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/pandeygopal/DSA/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 | [0150-evaluate-reverse-polish-notation](https://github.com/pandeygopal/DSA/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0204-count-primes](https://github.com/pandeygopal/DSA/tree/main/0204-count-primes/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/pandeygopal/DSA/tree/main/0209-minimum-size-subarray-sum/) | Medium |
@@ -202,6 +203,7 @@ DSA Questions and solutions
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/pandeygopal/DSA/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 | [0150-evaluate-reverse-polish-notation](https://github.com/pandeygopal/DSA/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0456-132-pattern](https://github.com/pandeygopal/DSA/tree/main/0456-132-pattern/) | Medium |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/pandeygopal/DSA/tree/main/0581-shortest-unsorted-continuous-subarray/) | Medium |
@@ -217,6 +219,7 @@ DSA Questions and solutions
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/pandeygopal/DSA/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 | [0456-132-pattern](https://github.com/pandeygopal/DSA/tree/main/0456-132-pattern/) | Medium |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/pandeygopal/DSA/tree/main/0581-shortest-unsorted-continuous-subarray/) | Medium |
 | [0739-daily-temperatures](https://github.com/pandeygopal/DSA/tree/main/0739-daily-temperatures/) | Medium |
