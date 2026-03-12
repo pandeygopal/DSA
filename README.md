@@ -122,6 +122,7 @@ DSA Questions and solutions
 | [0456-132-pattern](https://github.com/pandeygopal/DSA/tree/main/0456-132-pattern/) | Medium |
 | [0497-random-point-in-non-overlapping-rectangles](https://github.com/pandeygopal/DSA/tree/main/0497-random-point-in-non-overlapping-rectangles/) | Medium |
 | [3477-fruits-into-baskets-ii](https://github.com/pandeygopal/DSA/tree/main/3477-fruits-into-baskets-ii/) | Easy |
+| [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/pandeygopal/DSA/tree/main/3600-maximize-spanning-tree-stability-with-upgrades/) | Hard |
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -187,6 +188,7 @@ DSA Questions and solutions
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/pandeygopal/DSA/tree/main/0581-shortest-unsorted-continuous-subarray/) | Medium |
+| [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/pandeygopal/DSA/tree/main/3600-maximize-spanning-tree-stability-with-upgrades/) | Hard |
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -210,4 +212,16 @@ DSA Questions and solutions
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3477-fruits-into-baskets-ii](https://github.com/pandeygopal/DSA/tree/main/3477-fruits-into-baskets-ii/) | Easy |
+## Union-Find
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/pandeygopal/DSA/tree/main/3600-maximize-spanning-tree-stability-with-upgrades/) | Hard |
+## Graph Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/pandeygopal/DSA/tree/main/3600-maximize-spanning-tree-stability-with-upgrades/) | Hard |
+## Minimum Spanning Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/pandeygopal/DSA/tree/main/3600-maximize-spanning-tree-stability-with-upgrades/) | Hard |
 <!---LeetCode Topics End-->
