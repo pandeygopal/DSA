@@ -49,6 +49,7 @@ DSA Questions and solutions
 | [0204-count-primes](https://github.com/pandeygopal/DSA/tree/main/0204-count-primes/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/pandeygopal/DSA/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/pandeygopal/DSA/tree/main/0378-kth-smallest-element-in-a-sorted-matrix/) | Medium |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/pandeygopal/DSA/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
 | [0456-132-pattern](https://github.com/pandeygopal/DSA/tree/main/0456-132-pattern/) | Medium |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/pandeygopal/DSA/tree/main/0462-minimum-moves-to-equal-array-elements-ii/) | Medium |
 | [0473-matchsticks-to-square](https://github.com/pandeygopal/DSA/tree/main/0473-matchsticks-to-square/) | Medium |
@@ -103,6 +104,7 @@ DSA Questions and solutions
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/pandeygopal/DSA/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
 | [0645-set-mismatch](https://github.com/pandeygopal/DSA/tree/main/0645-set-mismatch/) | Easy |
 | [0930-binary-subarrays-with-sum](https://github.com/pandeygopal/DSA/tree/main/0930-binary-subarrays-with-sum/) | Medium |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/pandeygopal/DSA/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
