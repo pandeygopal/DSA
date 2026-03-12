@@ -209,6 +209,7 @@ DSA Questions and solutions
 | ------- | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/pandeygopal/DSA/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 | [0150-evaluate-reverse-polish-notation](https://github.com/pandeygopal/DSA/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
+| [0232-implement-queue-using-stacks](https://github.com/pandeygopal/DSA/tree/main/0232-implement-queue-using-stacks/) | Easy |
 | [0456-132-pattern](https://github.com/pandeygopal/DSA/tree/main/0456-132-pattern/) | Medium |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/pandeygopal/DSA/tree/main/0581-shortest-unsorted-continuous-subarray/) | Medium |
 | [0636-exclusive-time-of-functions](https://github.com/pandeygopal/DSA/tree/main/0636-exclusive-time-of-functions/) | Medium |
@@ -241,6 +242,7 @@ DSA Questions and solutions
 ## Design
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0232-implement-queue-using-stacks](https://github.com/pandeygopal/DSA/tree/main/0232-implement-queue-using-stacks/) | Easy |
 | [2336-smallest-number-in-infinite-set](https://github.com/pandeygopal/DSA/tree/main/2336-smallest-number-in-infinite-set/) | Medium |
 | [2349-design-a-number-container-system](https://github.com/pandeygopal/DSA/tree/main/2349-design-a-number-container-system/) | Medium |
 ## Segment Tree
@@ -266,6 +268,7 @@ DSA Questions and solutions
 ## Queue
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0232-implement-queue-using-stacks](https://github.com/pandeygopal/DSA/tree/main/0232-implement-queue-using-stacks/) | Easy |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/pandeygopal/DSA/tree/main/1700-number-of-students-unable-to-eat-lunch/) | Easy |
 | [2073-time-needed-to-buy-tickets](https://github.com/pandeygopal/DSA/tree/main/2073-time-needed-to-buy-tickets/) | Easy |
 <!---LeetCode Topics End-->
