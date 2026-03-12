@@ -43,6 +43,7 @@ DSA Questions and solutions
 | ------- | ------- |
 | [1441-build-an-array-with-stack-operations](https://github.com/pandeygopal/DSA/tree/main/1441-build-an-array-with-stack-operations/) | Medium |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/pandeygopal/DSA/tree/main/1545-find-kth-bit-in-nth-binary-string/) | Medium |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/pandeygopal/DSA/tree/main/1700-number-of-students-unable-to-eat-lunch/) | Easy |
 | [1929-concatenation-of-array](https://github.com/pandeygopal/DSA/tree/main/1929-concatenation-of-array/) | Easy |
 | [3477-fruits-into-baskets-ii](https://github.com/pandeygopal/DSA/tree/main/3477-fruits-into-baskets-ii/) | Easy |
 ## Array
@@ -72,6 +73,7 @@ DSA Questions and solutions
 | [1441-build-an-array-with-stack-operations](https://github.com/pandeygopal/DSA/tree/main/1441-build-an-array-with-stack-operations/) | Medium |
 | [1470-shuffle-the-array](https://github.com/pandeygopal/DSA/tree/main/1470-shuffle-the-array/) | Easy |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/pandeygopal/DSA/tree/main/1475-final-prices-with-a-special-discount-in-a-shop/) | Easy |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/pandeygopal/DSA/tree/main/1700-number-of-students-unable-to-eat-lunch/) | Easy |
 | [1929-concatenation-of-array](https://github.com/pandeygopal/DSA/tree/main/1929-concatenation-of-array/) | Easy |
 | [1980-find-unique-binary-string](https://github.com/pandeygopal/DSA/tree/main/1980-find-unique-binary-string/) | Medium |
 | [2363-merge-similar-items](https://github.com/pandeygopal/DSA/tree/main/2363-merge-similar-items/) | Easy |
@@ -211,6 +213,7 @@ DSA Questions and solutions
 | [0739-daily-temperatures](https://github.com/pandeygopal/DSA/tree/main/0739-daily-temperatures/) | Medium |
 | [1441-build-an-array-with-stack-operations](https://github.com/pandeygopal/DSA/tree/main/1441-build-an-array-with-stack-operations/) | Medium |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/pandeygopal/DSA/tree/main/1475-final-prices-with-a-special-discount-in-a-shop/) | Easy |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/pandeygopal/DSA/tree/main/1700-number-of-students-unable-to-eat-lunch/) | Easy |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -258,4 +261,8 @@ DSA Questions and solutions
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/pandeygopal/DSA/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
+## Queue
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/pandeygopal/DSA/tree/main/1700-number-of-students-unable-to-eat-lunch/) | Easy |
 <!---LeetCode Topics End-->
