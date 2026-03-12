@@ -61,6 +61,7 @@ DSA Questions and solutions
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/pandeygopal/DSA/tree/main/0581-shortest-unsorted-continuous-subarray/) | Medium |
 | [0645-set-mismatch](https://github.com/pandeygopal/DSA/tree/main/0645-set-mismatch/) | Easy |
 | [0930-binary-subarrays-with-sum](https://github.com/pandeygopal/DSA/tree/main/0930-binary-subarrays-with-sum/) | Medium |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/pandeygopal/DSA/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 | [1470-shuffle-the-array](https://github.com/pandeygopal/DSA/tree/main/1470-shuffle-the-array/) | Easy |
 | [1929-concatenation-of-array](https://github.com/pandeygopal/DSA/tree/main/1929-concatenation-of-array/) | Easy |
 | [1980-find-unique-binary-string](https://github.com/pandeygopal/DSA/tree/main/1980-find-unique-binary-string/) | Medium |
@@ -104,6 +105,7 @@ DSA Questions and solutions
 | ------- | ------- |
 | [0645-set-mismatch](https://github.com/pandeygopal/DSA/tree/main/0645-set-mismatch/) | Easy |
 | [0930-binary-subarrays-with-sum](https://github.com/pandeygopal/DSA/tree/main/0930-binary-subarrays-with-sum/) | Medium |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/pandeygopal/DSA/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 | [1980-find-unique-binary-string](https://github.com/pandeygopal/DSA/tree/main/1980-find-unique-binary-string/) | Medium |
 | [2336-smallest-number-in-infinite-set](https://github.com/pandeygopal/DSA/tree/main/2336-smallest-number-in-infinite-set/) | Medium |
 | [2349-design-a-number-container-system](https://github.com/pandeygopal/DSA/tree/main/2349-design-a-number-container-system/) | Medium |
@@ -176,6 +178,7 @@ DSA Questions and solutions
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/pandeygopal/DSA/tree/main/0462-minimum-moves-to-equal-array-elements-ii/) | Medium |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/pandeygopal/DSA/tree/main/0581-shortest-unsorted-continuous-subarray/) | Medium |
 | [0645-set-mismatch](https://github.com/pandeygopal/DSA/tree/main/0645-set-mismatch/) | Easy |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/pandeygopal/DSA/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 | [2363-merge-similar-items](https://github.com/pandeygopal/DSA/tree/main/2363-merge-similar-items/) | Easy |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
@@ -232,4 +235,8 @@ DSA Questions and solutions
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/pandeygopal/DSA/tree/main/3600-maximize-spanning-tree-stability-with-upgrades/) | Hard |
+## Counting Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/pandeygopal/DSA/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 <!---LeetCode Topics End-->
