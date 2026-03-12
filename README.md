@@ -69,6 +69,7 @@ DSA Questions and solutions
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/pandeygopal/DSA/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 | [1441-build-an-array-with-stack-operations](https://github.com/pandeygopal/DSA/tree/main/1441-build-an-array-with-stack-operations/) | Medium |
 | [1470-shuffle-the-array](https://github.com/pandeygopal/DSA/tree/main/1470-shuffle-the-array/) | Easy |
+| [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/pandeygopal/DSA/tree/main/1475-final-prices-with-a-special-discount-in-a-shop/) | Easy |
 | [1929-concatenation-of-array](https://github.com/pandeygopal/DSA/tree/main/1929-concatenation-of-array/) | Easy |
 | [1980-find-unique-binary-string](https://github.com/pandeygopal/DSA/tree/main/1980-find-unique-binary-string/) | Medium |
 | [2363-merge-similar-items](https://github.com/pandeygopal/DSA/tree/main/2363-merge-similar-items/) | Easy |
@@ -205,6 +206,7 @@ DSA Questions and solutions
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/pandeygopal/DSA/tree/main/0581-shortest-unsorted-continuous-subarray/) | Medium |
 | [0636-exclusive-time-of-functions](https://github.com/pandeygopal/DSA/tree/main/0636-exclusive-time-of-functions/) | Medium |
 | [1441-build-an-array-with-stack-operations](https://github.com/pandeygopal/DSA/tree/main/1441-build-an-array-with-stack-operations/) | Medium |
+| [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/pandeygopal/DSA/tree/main/1475-final-prices-with-a-special-discount-in-a-shop/) | Easy |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -215,6 +217,7 @@ DSA Questions and solutions
 | ------- | ------- |
 | [0456-132-pattern](https://github.com/pandeygopal/DSA/tree/main/0456-132-pattern/) | Medium |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/pandeygopal/DSA/tree/main/0581-shortest-unsorted-continuous-subarray/) | Medium |
+| [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/pandeygopal/DSA/tree/main/1475-final-prices-with-a-special-discount-in-a-shop/) | Easy |
 ## Ordered Set
 | Problem Name | Difficulty |
 | ------- | ------- |
