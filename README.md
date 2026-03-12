@@ -45,6 +45,7 @@ DSA Questions and solutions
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/pandeygopal/DSA/tree/main/1545-find-kth-bit-in-nth-binary-string/) | Medium |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/pandeygopal/DSA/tree/main/1700-number-of-students-unable-to-eat-lunch/) | Easy |
 | [1929-concatenation-of-array](https://github.com/pandeygopal/DSA/tree/main/1929-concatenation-of-array/) | Easy |
+| [2073-time-needed-to-buy-tickets](https://github.com/pandeygopal/DSA/tree/main/2073-time-needed-to-buy-tickets/) | Easy |
 | [3477-fruits-into-baskets-ii](https://github.com/pandeygopal/DSA/tree/main/3477-fruits-into-baskets-ii/) | Easy |
 ## Array
 | Problem Name | Difficulty |
@@ -76,6 +77,7 @@ DSA Questions and solutions
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/pandeygopal/DSA/tree/main/1700-number-of-students-unable-to-eat-lunch/) | Easy |
 | [1929-concatenation-of-array](https://github.com/pandeygopal/DSA/tree/main/1929-concatenation-of-array/) | Easy |
 | [1980-find-unique-binary-string](https://github.com/pandeygopal/DSA/tree/main/1980-find-unique-binary-string/) | Medium |
+| [2073-time-needed-to-buy-tickets](https://github.com/pandeygopal/DSA/tree/main/2073-time-needed-to-buy-tickets/) | Easy |
 | [2363-merge-similar-items](https://github.com/pandeygopal/DSA/tree/main/2363-merge-similar-items/) | Easy |
 | [3477-fruits-into-baskets-ii](https://github.com/pandeygopal/DSA/tree/main/3477-fruits-into-baskets-ii/) | Easy |
 ## Dynamic Programming
@@ -265,4 +267,5 @@ DSA Questions and solutions
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/pandeygopal/DSA/tree/main/1700-number-of-students-unable-to-eat-lunch/) | Easy |
+| [2073-time-needed-to-buy-tickets](https://github.com/pandeygopal/DSA/tree/main/2073-time-needed-to-buy-tickets/) | Easy |
 <!---LeetCode Topics End-->
