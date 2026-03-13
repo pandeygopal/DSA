@@ -14,6 +14,7 @@ DSA Questions and solutions
 | [0319-bulb-switcher](https://github.com/pandeygopal/DSA/tree/main/0319-bulb-switcher/) | Medium |
 | [0365-water-and-jug-problem](https://github.com/pandeygopal/DSA/tree/main/0365-water-and-jug-problem/) | Medium |
 | [0382-linked-list-random-node](https://github.com/pandeygopal/DSA/tree/main/0382-linked-list-random-node/) | Medium |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/pandeygopal/DSA/tree/main/0405-convert-a-number-to-hexadecimal/) | Easy |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/pandeygopal/DSA/tree/main/0462-minimum-moves-to-equal-array-elements-ii/) | Medium |
 | [0497-random-point-in-non-overlapping-rectangles](https://github.com/pandeygopal/DSA/tree/main/0497-random-point-in-non-overlapping-rectangles/) | Medium |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/pandeygopal/DSA/tree/main/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
@@ -21,6 +22,7 @@ DSA Questions and solutions
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0231-power-of-two](https://github.com/pandeygopal/DSA/tree/master/0231-power-of-two) |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/pandeygopal/DSA/tree/main/0405-convert-a-number-to-hexadecimal/) | Easy |
 | [0473-matchsticks-to-square](https://github.com/pandeygopal/DSA/tree/main/0473-matchsticks-to-square/) | Medium |
 | [0526-beautiful-arrangement](https://github.com/pandeygopal/DSA/tree/main/0526-beautiful-arrangement/) | Medium |
 | [0645-set-mismatch](https://github.com/pandeygopal/DSA/tree/main/0645-set-mismatch/) | Easy |
@@ -33,6 +35,7 @@ DSA Questions and solutions
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/pandeygopal/DSA/tree/main/0405-convert-a-number-to-hexadecimal/) | Easy |
 | [0467-unique-substrings-in-wraparound-string](https://github.com/pandeygopal/DSA/tree/main/0467-unique-substrings-in-wraparound-string/) | Medium |
 | [0520-detect-capital](https://github.com/pandeygopal/DSA/tree/main/0520-detect-capital/) | Easy |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/pandeygopal/DSA/tree/main/1545-find-kth-bit-in-nth-binary-string/) | Medium |
