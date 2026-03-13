@@ -296,4 +296,8 @@ DSA Questions and solutions
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0278-first-bad-version](https://github.com/pandeygopal/DSA/tree/main/0278-first-bad-version/) | Easy |
+## Database
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0197-rising-temperature](https://github.com/pandeygopal/DSA/tree/main/0197-rising-temperature/) | Easy |
 <!---LeetCode Topics End-->
