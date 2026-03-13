@@ -60,6 +60,7 @@ DSA Questions and solutions
 | [0150-evaluate-reverse-polish-notation](https://github.com/pandeygopal/DSA/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0204-count-primes](https://github.com/pandeygopal/DSA/tree/main/0204-count-primes/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/pandeygopal/DSA/tree/main/0209-minimum-size-subarray-sum/) | Medium |
+| [0303-range-sum-query-immutable](https://github.com/pandeygopal/DSA/tree/main/0303-range-sum-query-immutable/) | Easy |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/pandeygopal/DSA/tree/main/0373-find-k-pairs-with-smallest-sums/) | Medium |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/pandeygopal/DSA/tree/main/0378-kth-smallest-element-in-a-sorted-matrix/) | Medium |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/pandeygopal/DSA/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
@@ -145,6 +146,7 @@ DSA Questions and solutions
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/pandeygopal/DSA/tree/main/0209-minimum-size-subarray-sum/) | Medium |
+| [0303-range-sum-query-immutable](https://github.com/pandeygopal/DSA/tree/main/0303-range-sum-query-immutable/) | Easy |
 | [0497-random-point-in-non-overlapping-rectangles](https://github.com/pandeygopal/DSA/tree/main/0497-random-point-in-non-overlapping-rectangles/) | Medium |
 | [0930-binary-subarrays-with-sum](https://github.com/pandeygopal/DSA/tree/main/0930-binary-subarrays-with-sum/) | Medium |
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/pandeygopal/DSA/tree/main/3129-find-all-possible-stable-binary-arrays-i/) | Medium |
@@ -260,6 +262,7 @@ DSA Questions and solutions
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/pandeygopal/DSA/tree/main/0232-implement-queue-using-stacks/) | Easy |
+| [0303-range-sum-query-immutable](https://github.com/pandeygopal/DSA/tree/main/0303-range-sum-query-immutable/) | Easy |
 | [2336-smallest-number-in-infinite-set](https://github.com/pandeygopal/DSA/tree/main/2336-smallest-number-in-infinite-set/) | Medium |
 | [2349-design-a-number-container-system](https://github.com/pandeygopal/DSA/tree/main/2349-design-a-number-container-system/) | Medium |
 ## Segment Tree
