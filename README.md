@@ -34,6 +34,7 @@ DSA Questions and solutions
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0467-unique-substrings-in-wraparound-string](https://github.com/pandeygopal/DSA/tree/main/0467-unique-substrings-in-wraparound-string/) | Medium |
+| [0520-detect-capital](https://github.com/pandeygopal/DSA/tree/main/0520-detect-capital/) | Easy |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/pandeygopal/DSA/tree/main/1545-find-kth-bit-in-nth-binary-string/) | Medium |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/pandeygopal/DSA/tree/main/1758-minimum-changes-to-make-alternating-binary-string/) | Easy |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/pandeygopal/DSA/tree/main/1784-check-if-binary-string-has-at-most-one-segment-of-ones/) | Easy |
