@@ -39,6 +39,7 @@ DSA Questions and solutions
 | [0405-convert-a-number-to-hexadecimal](https://github.com/pandeygopal/DSA/tree/main/0405-convert-a-number-to-hexadecimal/) | Easy |
 | [0467-unique-substrings-in-wraparound-string](https://github.com/pandeygopal/DSA/tree/main/0467-unique-substrings-in-wraparound-string/) | Medium |
 | [0520-detect-capital](https://github.com/pandeygopal/DSA/tree/main/0520-detect-capital/) | Easy |
+| [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/pandeygopal/DSA/tree/main/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n/) | Medium |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/pandeygopal/DSA/tree/main/1545-find-kth-bit-in-nth-binary-string/) | Medium |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/pandeygopal/DSA/tree/main/1758-minimum-changes-to-make-alternating-binary-string/) | Easy |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/pandeygopal/DSA/tree/main/1784-check-if-binary-string-has-at-most-one-segment-of-ones/) | Easy |
@@ -119,6 +120,7 @@ DSA Questions and solutions
 | [0473-matchsticks-to-square](https://github.com/pandeygopal/DSA/tree/main/0473-matchsticks-to-square/) | Medium |
 | [0494-target-sum](https://github.com/pandeygopal/DSA/tree/main/0494-target-sum/) | Medium |
 | [0526-beautiful-arrangement](https://github.com/pandeygopal/DSA/tree/main/0526-beautiful-arrangement/) | Medium |
+| [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/pandeygopal/DSA/tree/main/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n/) | Medium |
 | [1980-find-unique-binary-string](https://github.com/pandeygopal/DSA/tree/main/1980-find-unique-binary-string/) | Medium |
 ## Bitmask
 | Problem Name | Difficulty |
