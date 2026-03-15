@@ -17,6 +17,7 @@ DSA Questions and solutions
 | [0405-convert-a-number-to-hexadecimal](https://github.com/pandeygopal/DSA/tree/main/0405-convert-a-number-to-hexadecimal/) | Easy |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/pandeygopal/DSA/tree/main/0462-minimum-moves-to-equal-array-elements-ii/) | Medium |
 | [0497-random-point-in-non-overlapping-rectangles](https://github.com/pandeygopal/DSA/tree/main/0497-random-point-in-non-overlapping-rectangles/) | Medium |
+| [1622-fancy-sequence](https://github.com/pandeygopal/DSA/tree/main/1622-fancy-sequence/) | Hard |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/pandeygopal/DSA/tree/main/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
 ## Bit Manipulation
 | Problem Name | Difficulty |
@@ -266,11 +267,13 @@ DSA Questions and solutions
 | ------- | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/pandeygopal/DSA/tree/main/0232-implement-queue-using-stacks/) | Easy |
 | [0303-range-sum-query-immutable](https://github.com/pandeygopal/DSA/tree/main/0303-range-sum-query-immutable/) | Easy |
+| [1622-fancy-sequence](https://github.com/pandeygopal/DSA/tree/main/1622-fancy-sequence/) | Hard |
 | [2336-smallest-number-in-infinite-set](https://github.com/pandeygopal/DSA/tree/main/2336-smallest-number-in-infinite-set/) | Medium |
 | [2349-design-a-number-container-system](https://github.com/pandeygopal/DSA/tree/main/2349-design-a-number-container-system/) | Medium |
 ## Segment Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1622-fancy-sequence](https://github.com/pandeygopal/DSA/tree/main/1622-fancy-sequence/) | Hard |
 | [3477-fruits-into-baskets-ii](https://github.com/pandeygopal/DSA/tree/main/3477-fruits-into-baskets-ii/) | Easy |
 ## Union-Find
 | Problem Name | Difficulty |
